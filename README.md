@@ -9,4 +9,5 @@ A demo of Picture-in-Picture playback that
 
 For more details, please refer to my blog: [SwiftUI: Picture in Picture. Automatically start on Leaving the App. Automatically Dismiss when Coming back]().
 
-![](./demo.gif)
+
+<img src="./demo.gif" width="250">
